@@ -1,0 +1,7 @@
+E:\C# Program\FirstConsoleApp\FirstConsoleApp\bin\Debug\FirstConsoleApp.exe.config
+E:\C# Program\FirstConsoleApp\FirstConsoleApp\bin\Debug\FirstConsoleApp.exe
+E:\C# Program\FirstConsoleApp\FirstConsoleApp\bin\Debug\FirstConsoleApp.pdb
+E:\C# Program\FirstConsoleApp\FirstConsoleApp\obj\Debug\FirstConsoleApp.csprojAssemblyReference.cache
+E:\C# Program\FirstConsoleApp\FirstConsoleApp\obj\Debug\FirstConsoleApp.csproj.CoreCompileInputs.cache
+E:\C# Program\FirstConsoleApp\FirstConsoleApp\obj\Debug\FirstConsoleApp.exe
+E:\C# Program\FirstConsoleApp\FirstConsoleApp\obj\Debug\FirstConsoleApp.pdb
