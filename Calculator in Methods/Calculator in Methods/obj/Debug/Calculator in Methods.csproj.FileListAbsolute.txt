@@ -1,0 +1,7 @@
+E:\C# Program\Calculator in Methods\Calculator in Methods\bin\Debug\Calculator in Methods.exe.config
+E:\C# Program\Calculator in Methods\Calculator in Methods\bin\Debug\Calculator in Methods.exe
+E:\C# Program\Calculator in Methods\Calculator in Methods\bin\Debug\Calculator in Methods.pdb
+E:\C# Program\Calculator in Methods\Calculator in Methods\obj\Debug\Calculator in Methods.csprojAssemblyReference.cache
+E:\C# Program\Calculator in Methods\Calculator in Methods\obj\Debug\Calculator in Methods.csproj.CoreCompileInputs.cache
+E:\C# Program\Calculator in Methods\Calculator in Methods\obj\Debug\Calculator in Methods.exe
+E:\C# Program\Calculator in Methods\Calculator in Methods\obj\Debug\Calculator in Methods.pdb
