@@ -1,0 +1,7 @@
+E:\C# Program\BookSelections\BookSelections\bin\Debug\BookSelections.exe.config
+E:\C# Program\BookSelections\BookSelections\bin\Debug\BookSelections.exe
+E:\C# Program\BookSelections\BookSelections\bin\Debug\BookSelections.pdb
+E:\C# Program\BookSelections\BookSelections\obj\Debug\BookSelections.csprojAssemblyReference.cache
+E:\C# Program\BookSelections\BookSelections\obj\Debug\BookSelections.csproj.CoreCompileInputs.cache
+E:\C# Program\BookSelections\BookSelections\obj\Debug\BookSelections.exe
+E:\C# Program\BookSelections\BookSelections\obj\Debug\BookSelections.pdb
